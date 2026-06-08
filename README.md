@@ -26,7 +26,7 @@
 
 <!-- Skills -->
 
-<h2 align="center"> Skils </h2>
+<h1 align="center"> Skills: </h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
