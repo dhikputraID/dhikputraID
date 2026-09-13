@@ -55,3 +55,6 @@ Anyway, nice to meet you! Feel free to stick around and check out what I’ve be
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhikputraID/dhikputraID/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dhikputra/dhikputra/output/pacman-contribution-graph.svg">
 </picture>
+
+<!-- Footer -->
+<p>© Dhikputra - 2026</p>
