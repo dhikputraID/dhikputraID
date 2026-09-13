@@ -18,7 +18,13 @@
 
 <!-- About me -->
 <h1>About Me 👨‍💻:</h1>
-<p>Hello!, welcome to my github. Let me introduce myself, my name is Dhika Putra & i'm a junior full-stack developer who has big dreams of creating useful projects! Nice to meet you 👋.</p>
+<p>Hello there! 👋 Welcome to my little corner of GitHub!
+
+I’m Dhika Putra, a junior full-stack developer who’s obsessed with building cool stuff, learning new things, and turning random ideas into useful projects. 🚀
+
+Still learning, still building, and definitely still breaking things along the way lol. 😭💻
+
+Anyway, nice to meet you! Feel free to stick around and check out what I’ve been working on. ✨</p>
 
 <!-- Skills -->
 <h1>My Skills</h1>
